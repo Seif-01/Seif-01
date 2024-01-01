@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seif-01&label=Profile%20views&color=0e75b6&style=flat" alt="seif-01" /> </p>
 
-<p align="left"> <a href="https://twitter.com/xenosmurfing" target="blank"><img src="https://img.shields.io/twitter/follow/xenosmurfing?logo=twitter&style=for-the-badge" alt="xenosmurfing" /></a> </p>
-
 - 🔭 I’m currently working on **FullStack Ecommerce Website/Admin**
 
 - 🌱 I’m currently learning **Low Level Programming languages at ALX software engineering Program**
