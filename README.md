@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Low Level Programming languages at ALX software engineering Program**
 
-- 👨‍💻 All of my projects are based of what i learned [Shell, C]
+- 👨‍💻 All of my projects are based of what i learned [Shell Bash, Linux, C, Python]
 
-- 📫 How to reach me ```not avaible right now sorry```
+- 📫 How to reach me ```not avaible right now, sorry```
 
 - ⚡ Fun fact **programmers prefer dark mode, because light attracts bugs.**
 
