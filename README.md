@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **FullStack Ecommerce Website/Admin**
 
-- 🌱 I’m currently learning **Low Level Programming languages at ALX software engineering Program**
+- 🌱 I’m currently rolling with bootcamp **YouCode Safi**
 
 - 👨‍💻 All of my projects are based of what i learned [Shell Bash, Linux, C, Python]
 
