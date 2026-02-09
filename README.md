@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, My Name Seif and i am here to learn</h1> 
+<h1 align="center">Hi 👋, My Name Seif and i am here to waste time</h1> 
 <h3 align="center">Not so passionate Web Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/MixedSkinnyArcticfox-max-1mb.gif">
 
