@@ -1,15 +1,15 @@
 
 <h1 align="center">Hi 👋, My Name Seif and i am here to learn</h1> 
-<h3 align="center">A passionate Software Engineer</h3>
+<h3 align="center">Not so passionate Web Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/MixedSkinnyArcticfox-max-1mb.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seif-01&label=Profile%20views&color=0e75b6&style=flat" alt="seif-01" /> </p>
 
-- 🔭 I’m currently working on **FullStack Ecommerce Website/Admin**
+- 🔭 I’m currently working on **Youtube Downloader**
 
-- 🌱 I’m currently rolling with bootcamp **YouCode Safi**
+- graduated from bootcamp **YouCode Safi**
 
-- 👨‍💻 All of my projects are based of what i learned [Shell Bash, Linux, C, Python]
+- 👨‍💻 All of my projects are based of what i learned
 
 - 📫 How to reach me ```not avaible right now, sorry```
 
