@@ -5,20 +5,20 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seif-01&label=Profile%20views&color=0e75b6&style=flat" alt="seif-01" /> </p>
 <h2  align="right"> Not so fun fact about me </h2>
-- 🔭 I’m currently working on **Youtube Downloader**
+-  I’m currently working on **Youtube Downloader**
 
-- 🎓 graduated from bootcamp **YouCode Safi**
+-  graduated from bootcamp **YouCode Safi**
 
-- 👨‍💻 All of my projects are based of what i learned
+-  All of my projects are based of what i learned
 
 - i love pushing bad codes and blame my coworkers
 
-- 💰 i have a gambling addiction that need funding  
+-  i have a gambling addiction that need funding  
                                       (Please hire me)
 
-- 📫 How to reach me ```i dont want you to reach me ```
+-  How to reach me ```i dont want you to reach me ```
 
-- ⚡ Fun fact **money doesnt buy happiness, Alcohol does.**
+-  Fun fact **money doesnt buy happiness, Alcohol does.**
 
 <h3 align="left">Unreachable at this moment or any time soon</h3>
 
