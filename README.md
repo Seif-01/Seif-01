@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/MixedSkinnyArcticfox-max-1mb.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seif-01&label=Profile%20views&color=0e75b6&style=flat" alt="seif-01" /> </p>
-<h2  align="right"> Not so fun fact about me </h2>
+<h2  align="left"> Not so fun fact about me </h2>
 
 -  I’m currently working on **File Converter**
 
